@@ -32,5 +32,5 @@ def generate(sequence, n):
         else:
             sequence.append(0)
           
-generate(sequence, 10)
+generate(sequence, 100)
 print(sequence)
