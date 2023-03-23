@@ -11,4 +11,4 @@ A scatterplot of the first 10,000 numbers:
 ![10000](10000.png)
 
 A scatterplot of the first 100,000 numbers:
-![100000](100000.png)
+![100000](100000.jpg)
