@@ -5,25 +5,25 @@ output: `[0, 0, 1, 0, 2, 0, 2, 2, 1, 6, 0, 5, 0, 2, 6, 5, 4, 0, 5, 3, 0, 3, 2, 9
 
 # Seaborn Plots
 A scatterplot of the first 100 numbers:
-![100](100.png)
+![100](images/100.png)
 
 A scatterplot of the first 1,000 numbers:
-![1000](1000.png)
+![1000](images/1000.png)
 
 A scatterplot of the first 10,000 numbers:
-![10000](10000.png)
+![10000](images/10000.png)
 
 A scatterplot of the first 100,000 numbers:
-![100000](100000.jpg)
+![100000](images/100000.jpg)
 
 ## Plotting the Average as $n \to \infty$
 Scatterplot of the first 10 averages:
-![10 averages](average_10.png)
+![10 averages](images/average_10.png)
 Scatterplot of the first 100 averages:
-![100 averages](average_100.png)
+![100 averages](images/average_100.png)
 Scatterplot of the first 1,000 averages:
-![1000 averages](average_1000.png)
+![1000 averages](images/average_1000.png)
 Scatterplot of the first 10,000 averages:
-![10,000 averages](average_10000.png)
+![10,000 averages](images/average_10000.png)
 Scatterplot of the first 100,000 averages:
-![100,000 averages](average_100000.png)
+![100,000 averages](images/average_100000.png)
